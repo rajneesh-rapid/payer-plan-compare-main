@@ -28,8 +28,8 @@ export const ALKOOT_FIELDS = [
   "Expiry Date", 
   "Provider-specific co-insurance at Al Ahli Hospital",
   "Co-insurance on all inpatient treatment", 
-  "Co-insurance",
   "Deductible on consultation",
+  "Co-insurance",
   "Vaccination & Immunization",
   "Psychiatric treatment & Psychotherapy",
   "Pregnancy & Childbirth", 
@@ -144,15 +144,15 @@ export const FIELD_SUGGESTIONS = {
       "Inpatient treatment coverage",
       "Co-insurance - Inpatient"
     ],
-    "Co-insurance":[
-      "Co-insurance"
-      ],
     "Deductible on consultation": [
       "Deductible on consultations",
       "Deductible",
       "Consultation deductible",
       "Outpatient deductible",
     ],
+    "Co-insurance":[
+      "Co-insurance"
+      ],
     "Vaccination & Immunization": [
       "Vaccination coverage",
       "Immunization coverage"
